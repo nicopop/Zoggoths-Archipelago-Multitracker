@@ -1,0 +1,3 @@
+GladesKeyStone: progression
+SwampKeyStone: progression
+EX100: progression
