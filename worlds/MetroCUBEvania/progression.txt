@@ -1,0 +1,6 @@
+lava medal: filler
+starting medal: progression
+ice medal: progression
+key: progression
+double jump: progression
+springboards: progression
