@@ -1,0 +1,12 @@
+SpawnKing: progression
+SpawnPrincessItem: progression
+SpawnAnvilItem: progression
+UnlockCallElevatorButtons: progression
+UnlockFacePlantStone: progression
+GrowVine: progression
+Nothing: filler
+UnlockGeyserDesert2: progression
+SpawnMimic: progression
+SpawnCompassChest: useful
+OpenCastleFloor: progression
+SpawnDragon: progression
